@@ -1,0 +1,2 @@
+2019-09-29 23:19:38,035 - root - INFO - UserBasic(bio='The king of all', created_at='Thu, 27 Sep 2018 11:40:54 GMT', email='email@example.com', first_name='John', id=3, is_admin=False, last_name='Targarien', updated_at='Sun, 29 Sep 2019 18:43:45 GMT')
+2019-09-29 23:19:38,609 - root - ERROR - ErrorResponse(code=401, errors={'authorization': 'Invalid token. Please log in again.'}, general_error='Unauthorized')

@@ -1,0 +1,2 @@
+2019-09-29 23:20:45,517 - root - INFO - You are logout
+2019-09-29 23:20:46,089 - root - ERROR - ErrorResponse(code=401, errors={'authorization': 'Invalid token. Please log in again.'}, general_error='Unauthorized')
